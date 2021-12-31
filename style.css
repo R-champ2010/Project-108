@@ -1,0 +1,37 @@
+body{
+    background: rgb(177,238,231);
+background: linear-gradient(45deg, rgba(177,238,231,1) 0%, rgba(233,168,168,1) 50%, rgba(200,249,200,1) 100%);
+}
+
+.header_div{
+    background-color:lightcyan;
+    color: lightsalmon;
+}
+
+.header_div p{
+    font-family: 'Oooh Baby', cursive;
+    font-weight: 950;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.main_div button{
+    font-family: 'Twinkle Star', cursive;
+    margin-top:30px ;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(112, 221, 217);
+    bottom:0;
+    width: 100%;
+    font-size: 30px;
+    background-color: tan;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(129, 157, 185);
+    font-family: 'Twinkle Star', cursive;
+}
